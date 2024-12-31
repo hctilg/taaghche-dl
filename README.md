@@ -1,6 +1,6 @@
 # Taaghche downloader
 
-**Save books purchased from [taaghche.com](taaghche.com) !**
+**Save books purchased from [taaghche.com](https://taaghche.com) !**
 
 this is a Python script that allows users to save books purchased from taaghche.com. The script utilizes Selenium to  downloading the pages of the purchased books as images. Finally, it converts these images into a single PDF file for easy access and reading.
 
