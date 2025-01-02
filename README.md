@@ -30,7 +30,7 @@ Open the script in your preferred Python environment.
 
 Run the script:
 ```bash
-python downloader.py.py
+python downloader.py
 ```
 
 + When prompted, login to your taaghche account and press Enter.
