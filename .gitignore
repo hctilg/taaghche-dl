@@ -1,3 +1,7 @@
-images/*
 images/
+images/*
 *.pdf
+.chrome-profile/
+__pycache__/
+chromedriver
+chromedriver.exe
